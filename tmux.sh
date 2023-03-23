@@ -1,1 +1,1 @@
-tmux new -s 0
+tmux new -s ss1 -d
